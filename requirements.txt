@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+streamlit
+pandas
+rapidfuzz
+httpx
+packaging
+python-dotenv
+requests
+stdlib-list
